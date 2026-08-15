@@ -32,9 +32,9 @@
   <i>"Transforming complex technical requirements into robust, responsive, and high-performance full-stack web applications."</i>
 </p>
 
-I am an aspiring **Software Engineer** and Computer Science undergraduate at ADGIPS (GGSIPU)[cite: 2] with hands-on industry experience in building modern web applications. My technical expertise spans across frontend and backend technologies including React.js, Next.js, Node/Express ecosystems, and database management systems like MongoDB and PostgreSQL[cite: 2]. 
+I am an aspiring **Software Engineer** and Computer Science undergraduate at ADGIPS (GGSIPU), with hands-on industry experience in building modern web applications. My technical expertise spans across frontend and backend technologies including React.js, Next.js, Node/Express ecosystems, and database management systems like MongoDB and PostgreSQL. 
 
-With practical internship experience at companies like **Narrow** and **Redynox**, I specialize in designing REST APIs, optimizing application performance, and maintaining clean code practices using Git workflows[cite: 2]. I also actively drive technical communities, having led emerging tech initiatives and large-scale coding events[cite: 2].
+With practical internship experience at companies like **Narrow** and **Redynox**, I specialize in designing REST APIs, optimizing application performance, and maintaining clean code practices using Git workflows. I also actively drive technical communities, having led emerging tech initiatives and large-scale coding events.
 
 * **Core Focus:** Full Stack Web Development, REST API Integration, and Performance Optimization.
 * **Open To:** Software Engineering Roles, Full-Stack Development Opportunities, Technical Collaborations, and Open Source Contributions.
@@ -62,7 +62,7 @@ With practical internship experience at companies like **Narrow** and **Redynox*
 
 ### ☁️ DevOps, Tools & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,apache,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,apache,vscode" />
 </p>
 
 </div>
@@ -73,10 +73,10 @@ With practical internship experience at companies like **Narrow** and **Redynox*
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Full Stack Development** | Advanced | Building modular UI components, integrating REST APIs, and scaling MERN applications[cite: 2]. |
-| **Data Structures & Algorithms** | Advanced | Rigorous daily problem solving in C++ covering arrays, trees, graphs, and dynamic programming[cite: 2]. |
-| **Database Architecture** | Intermediate | Designing and managing schema structures, relational tables, and queries across MongoDB, MySQL, and PostgreSQL[cite: 2]. |
-| **Performance Optimization** | Advanced | Efficient DOM manipulation, asset optimization, and clean styling structures for enhanced web speeds[cite: 2]. |
+| **Full Stack Development** | Advanced | Building modular UI components, integrating REST APIs, and scaling MERN applications. |
+| **Data Structures & Algorithms** | Advanced | Rigorous daily problem solving in C++ covering arrays, trees, graphs, and dynamic programming , solved 50+ questions yet. |
+| **Database Architecture** | Intermediate | Designing and managing schema structures, relational tables, and queries across MongoDB, MySQL, and PostgreSQL. |
+| **Performance Optimization** | Advanced | Efficient DOM manipulation, asset optimization, and clean styling structures for enhanced web speeds. |
 
 ---
 
@@ -89,14 +89,14 @@ A responsive, component-based web application built to deliver real-time movie i
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | React.js, JavaScript, REST API, HTML5, CSS3[cite: 2] |
-| **Scale** | Component-driven architecture deployed globally via Vercel[cite: 2] |
+| **Stack** | React.js, JavaScript, REST API, HTML5, CSS3. |
+| **Scale** | Component-driven architecture deployed globally via Vercel. |
 | **Performance** | Optimized real-time data fetching with rapid client-side rendering |
 | **Security** | Secure environment variable handling and sanitized API calls |
 | **Impact** | Streamlined user movie discovery experience with instant results |
-| **Repository** | [View Source Code](https://github.com/Mahak2357)[cite: 2] |
+| **Repository** | [View Source Code](https://github.com/Mahak2357). |
 
-*Built with strict component modularity and integrated continuous deployment using GitHub CI/CD workflows[cite: 2].*
+*Built with strict component modularity and integrated continuous deployment using GitHub CI/CD workflows.*
 
 </details>
 
@@ -107,14 +107,14 @@ A comprehensive personal engineering repository tracking structured problem-solv
 
 | Metric | Specification |
 | :--- | :--- |
-| **Stack** | C++[cite: 2] |
+| **Stack** | C++ |
 | **Scale** | Hundreds of algorithmic problems covering core data structures |
-| **Performance** | Optimized solutions evaluated for minimal time and memory complexities[cite: 2] |
+| **Performance** | Optimized solutions evaluated for minimal time and memory complexities. |
 | **Security** | Clean, secure, and production-clean code practices |
 | **Impact** | Strong foundational grasp of system-level logic and advanced programming constructs |
-| **Repository** | [View Source Code](https://github.com/Mahak2357/Leetcode-DSA)[cite: 2] |
+| **Repository** | [View Source Code](https://github.com/Mahak2357/Leetcode-DSA). |
 
-*Maintained actively with well-documented logic structures for peer learning and reference[cite: 2].*
+*Maintained actively with well-documented logic structures for peer learning and reference.*
 
 </details>
 
@@ -123,21 +123,21 @@ A comprehensive personal engineering repository tracking structured problem-solv
 ## 💼 Experience Section
 
 ### **Software Development Engineer Intern**
-*Narrow, Delhi, India* | *Jun 2026 – Present*[cite: 2]
-* Built and shipped full-stack features using React.js, Next.js, and Tailwind CSS on the frontend with MongoDB managing application databases in a live production environment[cite: 2].
-* Designed and integrated robust REST APIs, configured MongoDB database schemas, and delivered responsive user interfaces adhering to standard Git/GitHub collaborative workflows[cite: 2].
-* **Skills:** React.js, Next.js, Tailwind CSS, MongoDB, REST APIs, Git[cite: 2].
+*Narrow, Delhi, India* | *Jun 2026 – Present*.
+* Built and shipped full-stack features using React.js, Next.js, and Tailwind CSS on the frontend with MongoDB managing application databases in a live production environment.
+* Designed and integrated robust REST APIs, configured MongoDB database schemas, and delivered responsive user interfaces adhering to standard Git/GitHub collaborative workflows.
+* **Skills:** React.js, Next.js, Tailwind CSS, MongoDB, REST APIs, Git.
 
 ### **Web Development Intern**
-*Redynox, Delhi, India* | *Jun 2026 – Jul 2026*[cite: 2]
-* Developed responsive UI components and implemented seamless REST API integrations to optimize client-server communication loops[cite: 2].
-* Boosted application performance via clean DOM manipulation, asset minimization, and structured CSS architectures within collaborative Git branches[cite: 2].
-* **Skills:** JavaScript, Frontend Architecture, DOM Optimization, Git[cite: 2].
+*Redynox, Delhi, India* | *Jun 2026 – Jul 2026*.
+* Developed responsive UI components and implemented seamless REST API integrations to optimize client-server communication loops.
+* Boosted application performance via clean DOM manipulation, asset minimization, and structured CSS architectures within collaborative Git branches.
+* **Skills:** JavaScript, Frontend Architecture, DOM Optimization, Git.
 
 ### **Growth & Innovation Advisor | Core Member | Co-Lead Emerging Tech**
-*Geek Room ADGIPS, Delhi, India* | *Apr 2025 – Jul 2026*[cite: 2]
-* Directed the Emerging Technology division, running hands-on workshops focused on AI and web development technologies[cite: 2].
-* Advised community expansion strategies for a 50+ member technical student body while generating visual assets for major club events[cite: 2].
+*Geek Room ADGIPS, Delhi, India* | *Apr 2025 – Jul 2026*.
+* Directed the Emerging Technology division, running hands-on workshops focused on AI and web development technologies.
+* Advised community expansion strategies for a 50+ member technical student body while generating visual assets for major club events.
 
 ---
 
@@ -147,9 +147,9 @@ A comprehensive personal engineering repository tracking structured problem-solv
 
 | Recognition | Details |
 | :--- | :--- |
-| **2nd Place – ELYXPRESSION’26** | Secured 2nd position in a competitive inter-college technical event under high-pressure constraints[cite: 2]. |
-| **Lead Organiser – Code Veda 2.0 & Vedathon** | Managed national-level coding events connecting over 6,000 participants; awarded Certificates of Appreciation[cite: 2]. |
-| **NSS Public Relations Volunteer** | Spearheaded sponsor acquisitions and public relations campaigns across 9 months of active community service[cite: 2]. |
+| **2nd Place – ELYXPRESSION’26** | Secured 2nd position in a competitive inter-college technical event under high-pressure constraints. |
+| **Lead Organiser – Code Veda 2.0 & Vedathon** | Managed national-level coding events connecting over 6,000 participants; awarded Certificates of Appreciation. |
+| **NSS Public Relations Volunteer** | Spearheaded sponsor acquisitions and public relations campaigns across 9 months of active community service. |
 
 </div>
 
