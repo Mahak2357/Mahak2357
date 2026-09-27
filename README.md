@@ -62,7 +62,7 @@ With practical internship experience at companies like **Narrow** and **Redynox*
 
 ### ☁️ DevOps, Tools & Concepts
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,ci/cd,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,githubactions,vscode" />
 </p>
 
 </div>
